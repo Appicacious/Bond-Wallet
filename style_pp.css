@@ -71,14 +71,11 @@
     }
 .block_5 {
     color: black;
-    display: table-row;
+    display: list-item;
     margin-bottom: 1.8pt;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 36pt;
     margin-top: 1.8pt;
     padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
     padding-top: 0
     }
 .block_6 {
@@ -103,24 +100,13 @@
     padding-right: 0
     }
 .calibre1 {
-    text-decoration: none
-    }
-.calibre2 {
     font-weight: bold
     }
-.calibre3 {
-    display: table;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0;
-    padding-bottom: 0;
-    padding-left: 24pt;
-    padding-right: 0;
-    padding-top: 0
-    }
-.calibre4 {
+.calibre2 {
     display: block
+    }
+.calibre3 {
+    text-decoration: none
     }
 .list_ {
     display: block;
@@ -134,11 +120,11 @@
     padding-top: 0
     }
 .text_ {
-    color: #4F81BD
-    }
-.text_1 {
     color: #4F81BD;
     text-decoration: none
+    }
+.text_1 {
+    color: #4F81BD
     }
 
 @page {
